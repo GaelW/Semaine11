@@ -1,0 +1,20 @@
+body{
+	background-image:url(euros.jpg);
+	}
+ul{
+	text-align:center;
+}
+li{
+	text-align:center;
+	list-style-type:none
+}
+h1{
+	text-align:center;
+	color:red;
+	font-family:"Impact"
+	}
+h2{
+	text-align:center;
+	color:black;
+	font-family:"Impact"
+	}
