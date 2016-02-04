@@ -1,0 +1,21 @@
+.domaine{
+	text-align:left;
+	color:#ee7325;
+	font-size:28px;
+	font-family:"Impact"
+}
+.quiz{
+	width: 550px;
+	margin: 20px;
+	font-family:"Impact"
+}
+.resultat{
+	width: 600px;
+	margin: 20px;
+	font-family:"Impact"	
+}
+.solution{
+	width: 600px;
+	margin: 20px;
+	font-family:"Impact"	
+}
